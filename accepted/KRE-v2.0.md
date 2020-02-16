@@ -196,4 +196,4 @@ Else:
 	Developers are paid out based on s_i
  ```
 
-For a more complete explanation of the reasoning behind the Monopoly Clause and examples please refer to [KRE V1.1](kik_kre_1_1.md).
+For a more complete explanation of the reasoning behind the Monopoly Clause and examples please refer to [KRE V1.1](KRE-v1.1.md).
